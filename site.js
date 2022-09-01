@@ -6,4 +6,4 @@
 
  const operacaomatematica = primeironumero + segundonumero;
 
-
+console.log(operacaomatematica)
