@@ -5,5 +5,7 @@
  const segundonumero = 2;
 
  const operacaomatematica = primeironumero + segundonumero;
-
-
+ adskoaipdsko
+ asdkopasdkopaksd
+ asdkopadskp
+ 
